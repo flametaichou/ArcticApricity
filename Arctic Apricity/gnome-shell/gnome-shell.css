@@ -276,7 +276,7 @@ StScrollBar StButton#hhandle:active {
     color: #686d7a;
     font-size: 8pt; }
   .end-session-dialog .modal-dialog-linked-button:last-child {
-    color: #686d7a;
+    color: #ffffff;
     background-color: #F04A50; }
     .end-session-dialog .modal-dialog-linked-button:last-child:hover {
       color: #ffffff;
@@ -476,7 +476,6 @@ StScrollBar StButton#hhandle:active {
   spacing-columns: 1em; }
 
 /* Popvers/Menus */
-
 .popup-menu {
     min-width: 200px;
     box-shadow: 0 5px 10px 0 rgba(0,0,0,0.5);
